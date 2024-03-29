@@ -13,6 +13,7 @@ public class Hamburger {
         this.breadRollType = breadRollType;
         this.price = price;
     }
+    //test
     public void addHamburgerAddition1(String addition1Name,double addition1Price){
         this.addition1Name = addition1Name;
         this.addition1Price = addition1Price;
